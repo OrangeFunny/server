@@ -1,7 +1,6 @@
-# egg-RESTfulAPI
+# server
 
-基于Egg.js的 RESTful API 模板，用于快速集成开发RESTful前后端分离的服务端。
-(建议用于学习入门EGGJS和Mongoose,如果作为生产请自行优化和改造)
+橘子搞笑 api
 
 ## 特性
 
